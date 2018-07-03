@@ -1,6 +1,6 @@
 # beitoufee
 
-A new Flutter application.
+An electricity calculation app for our BeitouRent group!
 
 ## Getting Started
 
